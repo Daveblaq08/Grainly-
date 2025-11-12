@@ -1,0 +1,1477 @@
+.GRAINY-HIFI-DESIGN {
+    background-color: #ffffff;
+    width: 100%;
+    min-width: 1729px;
+    min-height: 5408px;
+    display: flex;
+}
+
+.GRAINY-HIFI-DESIGN .frame {
+    display: inline-flex;
+    width: 1720px;
+    height: 5408px;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.GRAINY-HIFI-DESIGN .div {
+    position: relative;
+    width: 1729px;
+    height: 4755px;
+}
+
+.GRAINY-HIFI-DESIGN .frame-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1729px;
+    height: 4258px;
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+}
+
+.GRAINY-HIFI-DESIGN .frame-3 {
+    height: 3836px;
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+}
+
+.GRAINY-HIFI-DESIGN .frame-4 {
+    width: 1729px;
+    height: 2724px;
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+}
+
+.GRAINY-HIFI-DESIGN .frame-5 {
+    height: 2290px;
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+}
+
+.GRAINY-HIFI-DESIGN .frame-6 {
+    margin-left: 35px;
+    width: 1659px;
+    height: 1422px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 64px;
+}
+
+.GRAINY-HIFI-DESIGN .desktop {
+    height: 1024px;
+    width: 1659px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+    overflow: hidden;
+    background: url(https://c.animaapp.com/mfx6qugz7ZkBrI/img/desktop---7.png) 50% 50% / cover,
+        linear-gradient(180deg,
+            rgba(255, 255, 255, 1) 0%,
+            rgba(31, 154, 255, 1) 100%);
+}
+
+.GRAINY-HIFI-DESIGN .top-nav-bar-wrapper {
+    display: inline-flex;
+    margin-left: 2px;
+    height: 92px;
+    width: 1223px;
+    position: relative;
+    margin-top: 59px;
+    align-items: center;
+    justify-content: center;
+    gap: 700px;
+    padding: 7px 12px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #e6e6e6;
+    box-shadow: var(--m3-elevation-light-3);
+}
+
+.GRAINY-HIFI-DESIGN .top-nav-bar {
+    display: inline-flex;
+    align-items: center;
+    gap: 40px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .image {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+}
+
+.GRAINY-HIFI-DESIGN .frame-7 {
+    display: inline-flex;
+    align-items: center;
+    gap: -20px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .nav-bar {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-left: -10px;
+    padding: 10px 20px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .frame-8 {
+    display: inline-flex;
+    align-items: center;
+    margin-left: -10px;
+    justify-content: center;
+    gap: 13px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .secondary-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-right: 5px;
+    padding: 7px 19px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 2px solid;
+    border-color: #2563eb;
+}
+
+.GRAINY-HIFI-DESIGN .button-text {
+    position: relative;
+    width: fit-content;
+    margin-top: -2.00px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 600;
+    color: #2563eb;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.GRAINY-HIFI-DESIGN .primary-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-left: 1px;
+    margin-right: 10px;
+    padding: 8px 13px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #2563eb;
+    border-radius: 6px;
+    box-shadow: 0px 4px 8px #2563eb40;
+}
+
+.GRAINY-HIFI-DESIGN .button-text-2 {
+    margin-top: -1.00px;
+    color: #ffffff;
+    position: relative;
+    width: fit-content;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 600;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.GRAINY-HIFI-DESIGN .frame-9 {
+    display: flex;
+    margin-left: 2px;
+    height: 356px;
+    width: 1159px;
+    position: relative;
+    margin-top: 68px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+}
+
+.GRAINY-HIFI-DESIGN .frame-10 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .frame-11 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .turn-messy-notes {
+    position: relative;
+    width: 1036px;
+    margin-top: -1.00px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 60px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .span {
+    color: #0d2352;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-2 {
+    color: #006fcb;
+}
+
+.GRAINY-HIFI-DESIGN .stop-losing-track-of {
+    position: relative;
+    width: 932px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 500;
+    color: #3f3f3f;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .button-text-wrapper {
+    display: inline-flex;
+    flex: 0 0 auto;
+    box-shadow: 0px 12px 20px #0039b673;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 24px;
+    position: relative;
+    background-color: #2563eb;
+    border-radius: 8px;
+}
+
+.GRAINY-HIFI-DESIGN .frame-12 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .frame-13 {
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .ellipse {
+    width: 36px;
+    position: relative;
+    height: 36px;
+    border: 3px solid;
+    border-color: #ffffff;
+    border-radius: 70px;
+    object-fit: cover;
+}
+
+.GRAINY-HIFI-DESIGN .img {
+    width: 35px;
+    margin-left: -16px;
+    position: relative;
+    height: 36px;
+    border: 3px solid;
+    border-color: #ffffff;
+    border-radius: 70px;
+    object-fit: cover;
+}
+
+.GRAINY-HIFI-DESIGN .ellipse-2 {
+    width: 36px;
+    margin-left: -16px;
+    position: relative;
+    height: 36px;
+    border: 3px solid;
+    border-color: #ffffff;
+    border-radius: 70px;
+    object-fit: cover;
+}
+
+.GRAINY-HIFI-DESIGN .trusted-by {
+    position: relative;
+    width: fit-content;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 400;
+    color: #0d2352;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-3 {
+    font-weight: 500;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-4 {
+    font-weight: 700;
+}
+
+.GRAINY-HIFI-DESIGN .image-2 {
+    margin-left: 1px;
+    height: 503px;
+    width: 750px;
+    margin-top: 46px;
+    border-radius: 10px;
+    border: 8px solid;
+    border-color: #e4e4e4;
+    object-fit: cover;
+}
+
+.GRAINY-HIFI-DESIGN .frame-14 {
+    display: flex;
+    margin-left: 1px;
+    height: 334px;
+    width: 1354px;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+
+}
+
+.GRAINY-HIFI-DESIGN .frame-15 {
+    display: flex;
+    flex-direction: column;
+    width: 761px;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .p {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 600;
+    color: #0d2352;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-5 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 500;
+    color: #646464;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .frame-16 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .frame-wrapper {
+    display: flex;
+    width: 430px;
+    height: 228px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px 20px;
+    position: relative;
+    background-color: #f4f6fb;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #e3e2e8;
+}
+
+.GRAINY-HIFI-DESIGN .frame-17 {
+    display: flex;
+    flex-direction: column;
+    width: 409.35px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px;
+    position: relative;
+    margin-right: -19.35px;
+}
+
+.GRAINY-HIFI-DESIGN .img-2 {
+    position: relative;
+    width: 56px;
+    height: 56px;
+}
+
+.GRAINY-HIFI-DESIGN .frame-18 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-6 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 500;
+    color: #0d2352;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-7 {
+    position: relative;
+    width: fit-content;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 400;
+    color: #3f3f3f;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .div-wrapper {
+    display: flex;
+    width: 430px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px 20px;
+    position: relative;
+    background-color: #f4f6fb;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #e3e2e8;
+}
+
+.GRAINY-HIFI-DESIGN .tired-man-with {
+    position: relative;
+    width: 90px;
+    height: 90px;
+}
+
+.GRAINY-HIFI-DESIGN .img-3 {
+    position: relative;
+    width: 64px;
+    height: 64px;
+}
+
+.GRAINY-HIFI-DESIGN .endless-switch {
+    position: relative;
+    width: 384px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 400;
+    color: #3f3f3f;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .frame-19 {
+    height: 804px;
+    width: 1729px;
+    align-self: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #dee6f5;
+}
+
+.GRAINY-HIFI-DESIGN .frame-20 {
+    display: flex;
+    height: 658px;
+    margin-left: -32px;
+    width: 1191px;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+
+.GRAINY-HIFI-DESIGN .frame-21 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 600;
+    color: #0d2352;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .frame-22 {
+    display: inline-flex;
+    align-items: center;
+    gap: 32px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .frame-23 {
+    display: flex;
+    flex-direction: column;
+    width: 430px;
+    align-items: flex-start;
+    gap: 32px;
+    position: relative;
+}
+
+.GRAINY-HIFI-DESIGN .frame-24 {
+    display: flex;
+    height: 228px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px 20px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    background-color: #f4f6fb;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #e3e2e8;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-9 {
+    position: relative;
+    width: 379px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 400;
+    color: #3f3f3f;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .frame-25 {
+    display: flex;
+    margin-left: 1px;
+    height: 370px;
+    width: 1288px;
+    align-self: center;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-10 {
+    position: relative;
+    width: 740px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 500;
+    color: #646464;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .frame-26 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .frame-27 {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .frame-28 {
+    display: flex;
+    width: 525px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px 22px;
+    position: relative;
+    background-color: #f4f6fb;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.GRAINY-HIFI-DESIGN .frame-29 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 10px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-right: -0.35px;
+}
+
+.GRAINY-HIFI-DESIGN .frame-30 {
+    display: flex;
+    flex-direction: column;
+    width: 389.35px;
+    align-items: flex-start;
+    gap: 15px;
+    position: relative;
+}
+
+.GRAINY-HIFI-DESIGN .frame-31 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px 22px 12px 10px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #f4f6fb;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.GRAINY-HIFI-DESIGN .frame-32 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 10px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .frame-33 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .frame-34 {
+    display: flex;
+    width: 387px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px 22px 12px 10px;
+    position: relative;
+    background-color: #f4f6fb;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.GRAINY-HIFI-DESIGN .frame-35 {
+    height: 1048px;
+    width: 1729px;
+    align-self: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #dfe6f5;
+}
+
+.GRAINY-HIFI-DESIGN .frame-36 {
+    display: flex;
+    margin-top: 1px;
+    height: 845px;
+    margin-left: 1px;
+    width: 1664px;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+
+.GRAINY-HIFI-DESIGN .frame-37 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 40px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .frame-38 {
+    display: inline-flex;
+    flex-direction: column;
+    height: 627px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #ffffff;
+    border-radius: 30px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #666666;
+    box-shadow: 0px 4px 8px #78a4fc;
+}
+
+.GRAINY-HIFI-DESIGN .frame-39 {
+    display: flex;
+    flex-direction: column;
+    width: 488px;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .frame-40 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    padding: 0px 10px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-11 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 500;
+    color: #646464;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-12 {
+    position: relative;
+    width: fit-content;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 600;
+    color: #0d2352;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-13 {
+    position: relative;
+    width: 432px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 400;
+    color: #3f3f3f;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .frame-41 {
+    display: flex;
+    flex-direction: column;
+    width: 377px;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 40px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .frame-42 {
+    display: inline-flex;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .check-mark {
+    position: relative;
+    width: 36px;
+    height: 36px;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-14 {
+    position: relative;
+    width: fit-content;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .frame-43 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .secondary-button-2 {
+    display: flex;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px 22px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 2px solid;
+    border-color: #2563eb;
+    box-shadow: var(--m3-elevation-light-1);
+}
+
+.GRAINY-HIFI-DESIGN .button-text-3 {
+    color: #2563eb;
+    position: relative;
+    width: fit-content;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 600;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.GRAINY-HIFI-DESIGN .frame-44 {
+    display: flex;
+    flex-direction: column;
+    width: 528px;
+    height: 739px;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+}
+
+.GRAINY-HIFI-DESIGN .frame-45 {
+    display: inline-flex;
+    flex-direction: column;
+    height: 739px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 30px;
+    overflow: hidden;
+    border: 3px solid;
+    border-color: #0f77f0;
+}
+
+.GRAINY-HIFI-DESIGN .frame-46 {
+    display: flex;
+    flex-direction: column;
+    width: 488px;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    padding: 48px 0px 0px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-15 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 500;
+    color: #3f3f3f;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .frame-47 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-16 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 600;
+    color: #0d2352;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-17 {
+    position: relative;
+    width: 366px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 400;
+    color: #3f3f3f;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .primary-button-2 {
+    display: flex;
+    height: 70px;
+    align-self: stretch;
+    width: 100%;
+    box-shadow: 0px 4px 8px #2563eb40;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 24px;
+    position: relative;
+    background-color: #2563eb;
+    border-radius: 8px;
+}
+
+.GRAINY-HIFI-DESIGN .button-text-4 {
+    color: #ffffff;
+    position: relative;
+    width: fit-content;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 600;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.GRAINY-HIFI-DESIGN .frame-48 {
+    display: flex;
+    width: 528px;
+    height: 53px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    position: relative;
+    background-color: #2563eb;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-18 {
+    position: relative;
+    width: fit-content;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.GRAINY-HIFI-DESIGN .frame-49 {
+    display: inline-flex;
+    flex-direction: column;
+    height: 627px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #ffffff;
+    border-radius: 30px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #666666;
+    box-shadow: 0px 4px 8px #78a5fd;
+}
+
+.GRAINY-HIFI-DESIGN .frame-50 {
+    display: inline-flex;
+    margin-left: 1px;
+    height: 358px;
+    width: 1664px;
+    align-self: center;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+.GRAINY-HIFI-DESIGN .frame-51 {
+    display: inline-flex;
+    align-items: center;
+    gap: 40px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .frame-52 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #dfe6f5;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.GRAINY-HIFI-DESIGN .frame-53 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 40px;
+    padding: 10px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .frame-54 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .frame-55 {
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-19 {
+    position: relative;
+    width: 488px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .frame-56 {
+    position: relative;
+    width: 90px;
+    height: 90px;
+    border-radius: 100px;
+    border: 1px solid;
+    border-color: #666666;
+    background-image: url(https://c.animaapp.com/mfx6qugz7ZkBrI/img/frame-1362790244.svg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.GRAINY-HIFI-DESIGN .frame-57 {
+    display: flex;
+    flex-direction: column;
+    width: 169px;
+    align-items: flex-start;
+    gap: 5px;
+    position: relative;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-20 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 500;
+    color: #3f3f3f;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.GRAINY-HIFI-DESIGN .frame-58 {
+    position: relative;
+    width: 90px;
+    height: 90px;
+    border-radius: 100px;
+    border: 1px solid;
+    border-color: #666666;
+    background-image: url(https://c.animaapp.com/mfx6qugz7ZkBrI/img/frame-1362790242.svg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.GRAINY-HIFI-DESIGN .frame-59 {
+    position: relative;
+    width: 90px;
+    height: 90px;
+    border-radius: 100px;
+    border: 1px solid;
+    border-color: #666666;
+    background-image: url(https://c.animaapp.com/mfx6qugz7ZkBrI/img/frame-1362790242-1.svg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-21 {
+    position: relative;
+    width: fit-content;
+    margin-right: -39.00px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 400;
+    color: #3f3f3f;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .frame-60 {
+    position: absolute;
+    top: 4322px;
+    left: calc(50.00% - 864px);
+    width: 1729px;
+    height: 433px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #dfe6f5;
+}
+
+.GRAINY-HIFI-DESIGN .frame-61 {
+    display: flex;
+    height: 178px;
+    margin-left: 1px;
+    width: 1148px;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.GRAINY-HIFI-DESIGN .frame-62 {
+    position: relative;
+    width: 1729px;
+    height: 653px;
+    background: url(https://c.animaapp.com/mfx6qugz7ZkBrI/img/frame-1362790307.png) 50% 50% / cover;
+}
+
+.GRAINY-HIFI-DESIGN .frame-63 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 66px;
+    position: absolute;
+    top: 82px;
+    left: 1310px;
+}
+
+.GRAINY-HIFI-DESIGN .frame-64 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-22 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-23 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-24 {
+    position: relative;
+    width: fit-content;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .frame-65 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    position: absolute;
+    top: 82px;
+    left: 227px;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-25 {
+    position: relative;
+    width: 401px;
+    margin-top: -1.00px;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .frame-66 {
+    display: inline-flex;
+    align-items: flex-end;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .text-wrapper-26 {
+    position: relative;
+    width: fit-content;
+    font-family: "Sofia Sans", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GRAINY-HIFI-DESIGN .img-4 {
+    position: relative;
+    width: 32px;
+    height: 32px;
+}
+
+.GRAINY-HIFI-DESIGN .frame-67 {
+    display: inline-flex;
+    align-items: center;
+    gap: 810px;
+    position: absolute;
+    top: 418px;
+    left: 227px;
+}
+
+.GRAINY-HIFI-DESIGN .frame-68 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+/* Original CSS code should be injected here */
+
+/* Additional CSS for semantic HTML elements and accessibility improvements */
+
+.GRAINY-HIFI-DESIGN ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.GRAINY-HIFI-DESIGN .frame-7 {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .nav-bar button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 24px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.GRAINY-HIFI-DESIGN .nav-bar button:hover {
+    background-color: rgba(37, 99, 235, 0.1);
+    border-radius: 8px;
+}
+
+.GRAINY-HIFI-DESIGN .nav-bar button:focus-visible {
+    outline: 2px solid #2563eb;
+    outline-offset: 2px;
+    border-radius: 8px;
+}
+
+.GRAINY-HIFI-DESIGN .secondary-button:hover {
+    background-color: #f8fafc;
+    transform: translateY(-1px);
+}
+
+.GRAINY-HIFI-DESIGN .primary-button:hover,
+.GRAINY-HIFI-DESIGN .button-text-wrapper:hover,
+.GRAINY-HIFI-DESIGN .primary-button-2:hover {
+    background-color: #1d4ed8;
+    transform: translateY(-1px);
+}
+
+.GRAINY-HIFI-DESIGN .secondary-button-2:hover {
+    background-color: #f8fafc;
+    transform: translateY(-1px);
+}
+
+.GRAINY-HIFI-DESIGN button:focus-visible {
+    outline: 2px solid #2563eb;
+    outline-offset: 2px;
+}
+
+.GRAINY-HIFI-DESIGN a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.GRAINY-HIFI-DESIGN a:hover {
+    text-decoration: underline;
+}
+
+.GRAINY-HIFI-DESIGN a:focus-visible {
+    outline: 2px solid #ffffff;
+    outline-offset: 2px;
+    border-radius: 4px;
+}
+
+.GRAINY-HIFI-DESIGN blockquote {
+    margin: 0;
+    padding: 0;
+}
+
+.GRAINY-HIFI-DESIGN cite {
+    font-style: normal;
+}
+
+/* Ensure proper heading hierarchy */
+.GRAINY-HIFI-DESIGN h1 {
+    font-size: 60px;
+}
+
+.GRAINY-HIFI-DESIGN h2 {
+    font-size: 48px;
+}
+
+.GRAINY-HIFI-DESIGN h3 {
+    font-size: 24px;
+}
+
+/* Improve button accessibility */
+.GRAINY-HIFI-DESIGN button {
+    cursor: pointer;
+    transition: all 0.2s ease;
